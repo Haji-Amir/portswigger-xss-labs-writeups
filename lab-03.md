@@ -25,3 +25,7 @@ When the page was loaded with the crafted URL, document.write() injected the raw
 🧠 Lesson Learned
 DOM XSS occurs entirely on the client-side when JavaScript handles untrusted input insecurely.
 Using functions like document.write() or innerHTML without validation/sanitization can lead to easy exploitation.
+
+![Lab Screenshot](./screenshots/Lab03-1ports.png)
+![Lab Screenshot](./screenshots/Lab03-2ports.png)
+![Lab Screenshot](./screenshots/Lab03-3ports.png)

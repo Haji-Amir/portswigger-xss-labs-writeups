@@ -25,3 +25,5 @@ The alert triggered as soon as the blog post loaded with the stored comment — 
 
 🧠 Lesson Learned
 Stored XSS is more dangerous than reflected XSS because the malicious script is persistently stored on the server and affects all users who view the page. This lab highlights the risk of unsanitized input being stored and displayed without proper encoding.
+
+![Lab Screenshot](./screenshots/Lab02ports.png)
