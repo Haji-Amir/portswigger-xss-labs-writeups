@@ -11,8 +11,8 @@ This repository contains my personal write-ups and payloads for the **XSS Labs**
 | 02  | Stored XSS (HTML context)    | [lab-02.md](./lab-02.md) |
 | 03  | DOM-based XSS (`document.write`) | [lab-03.md](./lab-03.md) |
 | 04  | DOM XSS: innerHTML ( `location.search`) | [lab-04](./lab-04.md) |
-| 05  | DOM XSS: anchor href (`location.search`)  | [lab-04](./lab-05.md) |
-| 04  | DOM XSS: selector with hashchange ( jQuery selector) | [lab-04](./lab-06.md) |
+| 05  | DOM XSS: anchor href (`location.search`)  | [lab-05](./lab-05.md) |
+| 06  | DOM XSS: selector with hashchange ( jQuery selector) | [lab-06](./lab-06.md) |
 
 ---
 
